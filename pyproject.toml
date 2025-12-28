@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "thermo-analysis"
+name = "thermo-analysis"  # ATENÇÃO: Deve ser único no PyPI
 version = "0.1"
 authors = [
   { name="Luís Gustavo Martins Amaral Alécio Gomes", email="lg.amaral.02@gmail.com" },
@@ -21,4 +21,4 @@ classifiers = [
 "Bug Tracker" = "https://github.com/seu_usuario/seu_repo/issues"
 
 [tool.setuptools.package-data]
-"minha_lib" = ["*.png", "assets/*.png"]  # Inclui PNGs dentro do pacote
+"thermo_analysis" = ["*.png", "assets/*.png"]  # Inclui PNGs dentro do pacote
