@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+pyproject.toml
+src/thermo_analysis/__init__.py
+src/thermo_analysis/functions.py
+src/thermo_analysis.egg-info/PKG-INFO
+src/thermo_analysis.egg-info/SOURCES.txt
+src/thermo_analysis.egg-info/dependency_links.txt
+src/thermo_analysis.egg-info/top_level.txt
+src/thermo_analysis/assets/thermal_scale.png

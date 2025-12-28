@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: thermo-analysis
+Version: 0.1
+Summary: A python library for analysis and processing of biomedical thermographic images.
+Author-email: Luís Gustavo Martins Amaral Alécio Gomes <lg.amaral.02@gmail.com>
+Project-URL: Homepage, https://github.com/luisgustavo02/thermo_analysis
+Project-URL: Bug Tracker, https://github.com/seu_usuario/seu_repo/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# **Thermo Analysis**
+
+*A python library for analysis and processing biomedical thermographic images.*
+
+*Authors: Luís Gustavo Martins Amaral Alécio Gomes, Sidney Marlon Lopes de Lima.*
+
+*Email: lg.amaral.02@gmail.com, luis.gustavomartins@ufpe.br*
